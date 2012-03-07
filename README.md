@@ -1,3 +1,6 @@
+
+PROJECT MOVED TO CODE FOR AMERICA: https://github.com/codeforamerica/GridMapper
+
 Based on zachwill's project, Flask for Heroku
 Get that at https://github.com/zachwill/flask_heroku
 
